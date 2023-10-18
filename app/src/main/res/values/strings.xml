@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">to-do-list-app</string>
+    <string name="to_do_list">TO DO LIST</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_login">Please login</string>
+    <string name="email_address">Email address</string>
+</resources>
